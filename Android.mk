@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/samsung/greatlte/
+LOCAL_PATH := device/samsung/dreamlte/
 include $(call all-makefiles-under,$(LOCAL_PATH))
